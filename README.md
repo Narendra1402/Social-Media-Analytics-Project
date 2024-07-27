@@ -1,4 +1,5 @@
-![Uploading proj_4.jpg…]()
+![proj_4](https://github.com/user-attachments/assets/ee685baa-01a3-4d2f-a8a3-5237ba5a25b0)
+
 
 ## Social Media Analytics Project
 
