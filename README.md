@@ -70,7 +70,7 @@ By running various SQL queries, this project provides insights such as:
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/yourusername/social-media-analytics.git
+   git clone https://github.com/Narendra1402/social-media-analytics.git
    ```
 
 2. **Set Up the Database**
