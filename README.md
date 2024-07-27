@@ -1,3 +1,5 @@
+![Uploading proj_4.jpg…]()
+
 ## Social Media Analytics Project
 
 ### Overview
